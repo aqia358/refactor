@@ -1,7 +1,5 @@
 package test;
 
-import refactor.Person;
-
 public class test {
 	byte[] revBuf = new byte[21];
 	byte[] sendGpsBuf = new byte[21];
